@@ -4,7 +4,8 @@ public class AccountHelper {
         System.debug('accList : '+accList.size());
         for(Account acc : accList){
             System.debug('acc name : one debug '+acc.Name);
-            
+         System.debug('acc name : second debug '+acc.Name);
+               
         }
     }
 

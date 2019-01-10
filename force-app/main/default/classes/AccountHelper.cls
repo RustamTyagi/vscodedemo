@@ -4,6 +4,8 @@ public class AccountHelper {
         System.debug('accList : '+accList.size());
         for(Account acc : accList){
             System.debug('acc name : changed testing '+acc.Name);
+            System.debug('acc id :  '+acc.Id);
+            
         }
     }
 

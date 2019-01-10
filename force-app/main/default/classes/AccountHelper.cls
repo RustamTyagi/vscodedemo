@@ -5,6 +5,7 @@ public class AccountHelper {
         for(Account acc : accList){
             System.debug('acc name : one debug '+acc.Name);
          System.debug('acc name : second debug '+acc.Name);
+           System.debug('new changes '+acc.Name);
                
         }
     }
